@@ -30,9 +30,9 @@ classifiers = [
 dev = [
   "build==1.5.0",
   "jsonschema==4.26.0",
-  "mypy==2.3.0",
+  "mypy==2.3.1",
   "pytest==9.1.1",
-  "ruff==0.16.2",
+  "ruff==0.16.4",
   "setuptools==83.0.0",
   "twine==7.0.0"
 ]
